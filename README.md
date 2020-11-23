@@ -16,7 +16,7 @@ The GANs Architecture is composed of two networks:
 ### Present Code 👨‍💻
 
 * *Simple GANs* : Simple Neural Networks for Generator and Discriminator.
-* *DCGANs* : Deep Convolutional Generative Adversarial Networks.
+* *DCGANs* : Deep Convolutional Generative Adversarial Networks. (using GPU and TPU)
 
 
 
